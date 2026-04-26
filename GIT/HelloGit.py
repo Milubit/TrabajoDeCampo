@@ -1,2 +1,1 @@
-print ("Hello, World");
-print ("Hola, Mundo");
+print ("Hello World, este es mi primer cambio en Python");
